@@ -76,6 +76,6 @@ cd ~/hl/data && ls
 - Done for now
 ## Enter as nonroot user (Optional)
 
-- If you want to again enter as non root user, you can use `du -hs hl`
+- If you want to again enter as non root user, you can use `su - hlnode`
 
 ## Follow me on X [@ZunXBT](https://x.com/ZunXBT)
